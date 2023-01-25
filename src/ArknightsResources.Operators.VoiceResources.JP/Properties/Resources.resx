@@ -181,9 +181,6 @@
   <data name="operator_voice_ja_asbest" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\operator_voice_ja_asbest.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="operator_voice_ja_ash" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\operator_voice_ja_ash.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
   <data name="operator_voice_ja_ashlok" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\operator_voice_ja_ashlok.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
@@ -231,9 +228,6 @@
   </data>
   <data name="operator_voice_ja_blemsh" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\operator_voice_ja_blemsh.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="operator_voice_ja_blitz" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\operator_voice_ja_blitz.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="operator_voice_ja_blkngt" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\operator_voice_ja_blkngt.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -745,9 +739,6 @@
   <data name="operator_voice_ja_reed2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\operator_voice_ja_reed2.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="operator_voice_ja_rfrost" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\operator_voice_ja_rfrost.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
   <data name="operator_voice_ja_robin" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\operator_voice_ja_robin.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
@@ -864,9 +855,6 @@
   </data>
   <data name="operator_voice_ja_swllow" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\operator_voice_ja_swllow.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="operator_voice_ja_tachak" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\operator_voice_ja_tachak.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="operator_voice_ja_takila" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\operator_voice_ja_takila.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
