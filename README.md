@@ -1,6 +1,6 @@
 # ArknightsResources - Operators Voice Resources
 
-本库仅包含干员语音相关资源。
+本库包含干员语音相关资源。
 
 ## 目标框架
 仅.NET Standard 2.0。
