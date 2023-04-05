@@ -1773,6 +1773,16 @@ namespace ArknightsResources.Operators.VoiceResources.CN.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
+        public static byte[] operator_voice_cn_noirc2 {
+            get {
+                object obj = ResourceManager.GetObject("operator_voice_cn_noirc2", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Byte[] 类型的本地化资源。
+        /// </summary>
         public static byte[] operator_voice_cn_nothin {
             get {
                 object obj = ResourceManager.GetObject("operator_voice_cn_nothin", resourceCulture);
@@ -2533,6 +2543,16 @@ namespace ArknightsResources.Operators.VoiceResources.CN.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
+        public static byte[] operator_voice_cn_ulika {
+            get {
+                object obj = ResourceManager.GetObject("operator_voice_cn_ulika", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Byte[] 类型的本地化资源。
+        /// </summary>
         public static byte[] operator_voice_cn_utage {
             get {
                 object obj = ResourceManager.GetObject("operator_voice_cn_utage", resourceCulture);
@@ -2646,6 +2666,16 @@ namespace ArknightsResources.Operators.VoiceResources.CN.Properties {
         public static byte[] operator_voice_cn_yak {
             get {
                 object obj = ResourceManager.GetObject("operator_voice_cn_yak", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Byte[] 类型的本地化资源。
+        /// </summary>
+        public static byte[] operator_voice_cn_yato2 {
+            get {
+                object obj = ResourceManager.GetObject("operator_voice_cn_yato2", resourceCulture);
                 return ((byte[])(obj));
             }
         }

@@ -63,9 +63,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_12fce {
+        public static byte[] operator_voice_jp_12fce {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_12fce", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_12fce", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -73,9 +73,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_absin {
+        public static byte[] operator_voice_jp_absin {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_absin", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_absin", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -83,9 +83,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_acast {
+        public static byte[] operator_voice_jp_acast {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_acast", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_acast", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -93,9 +93,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_acdrop {
+        public static byte[] operator_voice_jp_acdrop {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_acdrop", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_acdrop", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -103,9 +103,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_adnach {
+        public static byte[] operator_voice_jp_adnach {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_adnach", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_adnach", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -113,9 +113,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_aglina {
+        public static byte[] operator_voice_jp_aglina {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_aglina", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_aglina", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -123,9 +123,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_aguard {
+        public static byte[] operator_voice_jp_aguard {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_aguard", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_aguard", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -133,9 +133,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_akafyu {
+        public static byte[] operator_voice_jp_akafyu {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_akafyu", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_akafyu", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -143,9 +143,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_amedic {
+        public static byte[] operator_voice_jp_amedic {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_amedic", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_amedic", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -153,9 +153,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_amgoat {
+        public static byte[] operator_voice_jp_amgoat {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_amgoat", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_amgoat", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -163,9 +163,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_amiya {
+        public static byte[] operator_voice_jp_amiya {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_amiya", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_amiya", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -173,9 +173,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_amiya2 {
+        public static byte[] operator_voice_jp_amiya2 {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_amiya2", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_amiya2", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -183,9 +183,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_angel {
+        public static byte[] operator_voice_jp_angel {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_angel", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_angel", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -193,9 +193,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_ansel {
+        public static byte[] operator_voice_jp_ansel {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_ansel", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_ansel", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -203,9 +203,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_aosta {
+        public static byte[] operator_voice_jp_aosta {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_aosta", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_aosta", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -213,9 +213,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_apionr {
+        public static byte[] operator_voice_jp_apionr {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_apionr", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_apionr", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -223,9 +223,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_aprl {
+        public static byte[] operator_voice_jp_aprl {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_aprl", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_aprl", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -233,9 +233,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_aprot2 {
+        public static byte[] operator_voice_jp_aprot2 {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_aprot2", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_aprot2", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -243,9 +243,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_archet {
+        public static byte[] operator_voice_jp_archet {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_archet", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_archet", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -253,9 +253,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_ardign {
+        public static byte[] operator_voice_jp_ardign {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_ardign", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_ardign", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -263,9 +263,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_asbest {
+        public static byte[] operator_voice_jp_asbest {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_asbest", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_asbest", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -273,9 +273,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_ashlok {
+        public static byte[] operator_voice_jp_ashlok {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_ashlok", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_ashlok", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -283,9 +283,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_asnipe {
+        public static byte[] operator_voice_jp_asnipe {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_asnipe", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_asnipe", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -293,9 +293,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_astesi {
+        public static byte[] operator_voice_jp_astesi {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_astesi", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_astesi", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -303,9 +303,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_aurora {
+        public static byte[] operator_voice_jp_aurora {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_aurora", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_aurora", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -313,9 +313,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_ayer {
+        public static byte[] operator_voice_jp_ayer {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_ayer", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_ayer", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -323,9 +323,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_bdhkgt {
+        public static byte[] operator_voice_jp_bdhkgt {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_bdhkgt", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_bdhkgt", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -333,9 +333,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_beagle {
+        public static byte[] operator_voice_jp_beagle {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_beagle", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_beagle", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -343,9 +343,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_beewax {
+        public static byte[] operator_voice_jp_beewax {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_beewax", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_beewax", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -353,9 +353,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_bena {
+        public static byte[] operator_voice_jp_bena {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_bena", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_bena", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -363,9 +363,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_bgsnow {
+        public static byte[] operator_voice_jp_bgsnow {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_bgsnow", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_bgsnow", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -373,9 +373,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_bibeak {
+        public static byte[] operator_voice_jp_bibeak {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_bibeak", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_bibeak", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -383,9 +383,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_billro {
+        public static byte[] operator_voice_jp_billro {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_billro", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_billro", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -393,9 +393,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_bison {
+        public static byte[] operator_voice_jp_bison {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_bison", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_bison", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -403,9 +403,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_blackd {
+        public static byte[] operator_voice_jp_blackd {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_blackd", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_blackd", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -413,9 +413,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_bldsk {
+        public static byte[] operator_voice_jp_bldsk {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_bldsk", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_bldsk", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -423,9 +423,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_blemsh {
+        public static byte[] operator_voice_jp_blemsh {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_blemsh", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_blemsh", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -433,9 +433,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_blkngt {
+        public static byte[] operator_voice_jp_blkngt {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_blkngt", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_blkngt", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -443,9 +443,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_bluep {
+        public static byte[] operator_voice_jp_bluep {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_bluep", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_bluep", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -453,9 +453,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_bpipe {
+        public static byte[] operator_voice_jp_bpipe {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_bpipe", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_bpipe", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -463,9 +463,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_breeze {
+        public static byte[] operator_voice_jp_breeze {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_breeze", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_breeze", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -473,9 +473,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_broca {
+        public static byte[] operator_voice_jp_broca {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_broca", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_broca", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -483,9 +483,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_brownb {
+        public static byte[] operator_voice_jp_brownb {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_brownb", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_brownb", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -493,9 +493,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_bstalk {
+        public static byte[] operator_voice_jp_bstalk {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_bstalk", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_bstalk", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -503,9 +503,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_bubble {
+        public static byte[] operator_voice_jp_bubble {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_bubble", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_bubble", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -513,9 +513,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_cammou {
+        public static byte[] operator_voice_jp_cammou {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_cammou", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_cammou", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -523,9 +523,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_cast3 {
+        public static byte[] operator_voice_jp_cast3 {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_cast3", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_cast3", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -533,9 +533,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_catap {
+        public static byte[] operator_voice_jp_catap {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_catap", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_catap", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -543,9 +543,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_ccheal {
+        public static byte[] operator_voice_jp_ccheal {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_ccheal", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_ccheal", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -553,9 +553,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_cerber {
+        public static byte[] operator_voice_jp_cerber {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_cerber", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_cerber", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -563,9 +563,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_ceylon {
+        public static byte[] operator_voice_jp_ceylon {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_ceylon", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_ceylon", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -573,9 +573,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_cgbird {
+        public static byte[] operator_voice_jp_cgbird {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_cgbird", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_cgbird", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -583,9 +583,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_chen {
+        public static byte[] operator_voice_jp_chen {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_chen", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_chen", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -593,9 +593,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_chen2 {
+        public static byte[] operator_voice_jp_chen2 {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_chen2", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_chen2", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -603,9 +603,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_chiave {
+        public static byte[] operator_voice_jp_chiave {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_chiave", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_chiave", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -613,9 +613,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_chimes {
+        public static byte[] operator_voice_jp_chimes {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_chimes", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_chimes", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -623,9 +623,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_chnut {
+        public static byte[] operator_voice_jp_chnut {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_chnut", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_chnut", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -633,9 +633,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_chyue {
+        public static byte[] operator_voice_jp_chyue {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_chyue", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_chyue", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -643,9 +643,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_clour {
+        public static byte[] operator_voice_jp_clour {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_clour", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_clour", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -653,9 +653,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_cqbw {
+        public static byte[] operator_voice_jp_cqbw {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_cqbw", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_cqbw", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -663,9 +663,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_cqbw_epoque {
+        public static byte[] operator_voice_jp_cqbw_epoque {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_cqbw_epoque", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_cqbw_epoque", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -673,9 +673,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_crow {
+        public static byte[] operator_voice_jp_crow {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_crow", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_crow", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -683,9 +683,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_ctable {
+        public static byte[] operator_voice_jp_ctable {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_ctable", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_ctable", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -693,9 +693,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_cutter {
+        public static byte[] operator_voice_jp_cutter {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_cutter", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_cutter", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -703,9 +703,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_cuttle {
+        public static byte[] operator_voice_jp_cuttle {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_cuttle", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_cuttle", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -713,9 +713,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_dagda {
+        public static byte[] operator_voice_jp_dagda {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_dagda", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_dagda", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -723,9 +723,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_deepcl {
+        public static byte[] operator_voice_jp_deepcl {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_deepcl", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_deepcl", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -733,9 +733,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_demkni {
+        public static byte[] operator_voice_jp_demkni {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_demkni", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_demkni", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -743,9 +743,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_doberm {
+        public static byte[] operator_voice_jp_doberm {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_doberm", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_doberm", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -753,9 +753,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_doroth {
+        public static byte[] operator_voice_jp_doroth {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_doroth", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_doroth", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -763,9 +763,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_durin {
+        public static byte[] operator_voice_jp_durin {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_durin", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_durin", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -773,9 +773,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_durnar {
+        public static byte[] operator_voice_jp_durnar {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_durnar", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_durnar", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -783,9 +783,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_dusk {
+        public static byte[] operator_voice_jp_dusk {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_dusk", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_dusk", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -793,9 +793,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_ebnhlz {
+        public static byte[] operator_voice_jp_ebnhlz {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_ebnhlz", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_ebnhlz", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -803,9 +803,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_elysm {
+        public static byte[] operator_voice_jp_elysm {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_elysm", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_elysm", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -813,9 +813,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_erato {
+        public static byte[] operator_voice_jp_erato {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_erato", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_erato", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -823,9 +823,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_estell {
+        public static byte[] operator_voice_jp_estell {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_estell", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_estell", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -833,9 +833,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_ethan {
+        public static byte[] operator_voice_jp_ethan {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_ethan", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_ethan", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -843,9 +843,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_excu {
+        public static byte[] operator_voice_jp_excu {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_excu", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_excu", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -853,9 +853,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_f12yin {
+        public static byte[] operator_voice_jp_f12yin {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_f12yin", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_f12yin", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -863,9 +863,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_falco {
+        public static byte[] operator_voice_jp_falco {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_falco", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_falco", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -873,9 +873,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_fang {
+        public static byte[] operator_voice_jp_fang {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_fang", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_fang", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -883,9 +883,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_fartth {
+        public static byte[] operator_voice_jp_fartth {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_fartth", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_fartth", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -893,9 +893,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_finlpp {
+        public static byte[] operator_voice_jp_finlpp {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_finlpp", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_finlpp", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -903,9 +903,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_firwhl {
+        public static byte[] operator_voice_jp_firwhl {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_firwhl", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_firwhl", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -913,9 +913,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_flameb {
+        public static byte[] operator_voice_jp_flameb {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_flameb", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_flameb", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -923,9 +923,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_flamtl {
+        public static byte[] operator_voice_jp_flamtl {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_flamtl", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_flamtl", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -933,9 +933,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_flint {
+        public static byte[] operator_voice_jp_flint {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_flint", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_flint", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -943,9 +943,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_flower {
+        public static byte[] operator_voice_jp_flower {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_flower", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_flower", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -953,9 +953,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_fmout {
+        public static byte[] operator_voice_jp_fmout {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_fmout", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_fmout", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -963,9 +963,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_folivo {
+        public static byte[] operator_voice_jp_folivo {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_folivo", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_folivo", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -973,9 +973,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_folnic {
+        public static byte[] operator_voice_jp_folnic {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_folnic", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_folnic", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -983,9 +983,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_forcer {
+        public static byte[] operator_voice_jp_forcer {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_forcer", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_forcer", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -993,9 +993,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_franka {
+        public static byte[] operator_voice_jp_franka {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_franka", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_franka", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1003,9 +1003,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_frncat {
+        public static byte[] operator_voice_jp_frncat {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_frncat", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_frncat", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1013,9 +1013,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_frostl {
+        public static byte[] operator_voice_jp_frostl {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_frostl", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_frostl", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1023,9 +1023,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_gdglow {
+        public static byte[] operator_voice_jp_gdglow {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_gdglow", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_gdglow", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1033,9 +1033,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_ghost {
+        public static byte[] operator_voice_jp_ghost {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_ghost", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_ghost", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1043,9 +1043,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_ghost2 {
+        public static byte[] operator_voice_jp_ghost2 {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_ghost2", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_ghost2", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1053,9 +1053,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_glacus {
+        public static byte[] operator_voice_jp_glacus {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_glacus", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_glacus", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1063,9 +1063,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_glady {
+        public static byte[] operator_voice_jp_glady {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_glady", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_glady", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1073,9 +1073,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_glassb {
+        public static byte[] operator_voice_jp_glassb {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_glassb", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_glassb", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1083,9 +1083,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_glaze {
+        public static byte[] operator_voice_jp_glaze {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_glaze", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_glaze", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1093,9 +1093,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_glider {
+        public static byte[] operator_voice_jp_glider {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_glider", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_glider", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1103,9 +1103,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_gnosis {
+        public static byte[] operator_voice_jp_gnosis {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_gnosis", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_gnosis", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1113,9 +1113,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_grani {
+        public static byte[] operator_voice_jp_grani {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_grani", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_grani", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1123,9 +1123,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_gravel {
+        public static byte[] operator_voice_jp_gravel {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_gravel", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_gravel", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1133,9 +1133,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_greyy {
+        public static byte[] operator_voice_jp_greyy {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_greyy", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_greyy", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1143,9 +1143,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_greyy2 {
+        public static byte[] operator_voice_jp_greyy2 {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_greyy2", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_greyy2", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1153,9 +1153,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_gvial2 {
+        public static byte[] operator_voice_jp_gvial2 {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_gvial2", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_gvial2", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1163,9 +1163,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_gyuki {
+        public static byte[] operator_voice_jp_gyuki {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_gyuki", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_gyuki", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1173,9 +1173,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_haak {
+        public static byte[] operator_voice_jp_haak {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_haak", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_haak", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1183,9 +1183,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_halo {
+        public static byte[] operator_voice_jp_halo {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_halo", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_halo", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1193,9 +1193,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_hamoni {
+        public static byte[] operator_voice_jp_hamoni {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_hamoni", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_hamoni", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1203,9 +1203,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_hbisc2 {
+        public static byte[] operator_voice_jp_hbisc2 {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_hbisc2", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_hbisc2", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1213,9 +1213,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_headbr {
+        public static byte[] operator_voice_jp_headbr {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_headbr", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_headbr", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1223,9 +1223,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_heidi {
+        public static byte[] operator_voice_jp_heidi {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_heidi", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_heidi", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1233,9 +1233,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_helage {
+        public static byte[] operator_voice_jp_helage {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_helage", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_helage", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1243,9 +1243,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_hibisc {
+        public static byte[] operator_voice_jp_hibisc {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_hibisc", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_hibisc", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1253,9 +1253,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_highmo {
+        public static byte[] operator_voice_jp_highmo {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_highmo", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_highmo", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1263,9 +1263,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_hmau {
+        public static byte[] operator_voice_jp_hmau {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_hmau", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_hmau", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1273,9 +1273,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_horn {
+        public static byte[] operator_voice_jp_horn {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_horn", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_horn", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1283,9 +1283,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_hpsts {
+        public static byte[] operator_voice_jp_hpsts {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_hpsts", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_hpsts", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1293,9 +1293,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_hsguma {
+        public static byte[] operator_voice_jp_hsguma {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_hsguma", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_hsguma", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1303,9 +1303,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_huang {
+        public static byte[] operator_voice_jp_huang {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_huang", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_huang", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1313,9 +1313,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_ifrit {
+        public static byte[] operator_voice_jp_ifrit {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_ifrit", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_ifrit", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1323,9 +1323,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_indigo {
+        public static byte[] operator_voice_jp_indigo {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_indigo", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_indigo", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1333,9 +1333,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_irene {
+        public static byte[] operator_voice_jp_irene {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_irene", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_irene", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1343,9 +1343,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_iris {
+        public static byte[] operator_voice_jp_iris {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_iris", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_iris", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1353,9 +1353,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_ironmn {
+        public static byte[] operator_voice_jp_ironmn {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_ironmn", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_ironmn", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1363,9 +1363,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_jaksel {
+        public static byte[] operator_voice_jp_jesica {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_jaksel", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_jesica", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1373,9 +1373,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_jesica {
+        public static byte[] operator_voice_jp_jnight {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_jesica", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_jnight", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1383,9 +1383,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_jnight {
+        public static byte[] operator_voice_jp_jpksel {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_jnight", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_jpksel", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1393,9 +1393,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_judge {
+        public static byte[] operator_voice_jp_judge {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_judge", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_judge", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1403,9 +1403,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_kafka {
+        public static byte[] operator_voice_jp_kafka {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_kafka", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_kafka", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1413,9 +1413,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_kalts {
+        public static byte[] operator_voice_jp_kalts {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_kalts", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_kalts", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1423,9 +1423,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_kazema {
+        public static byte[] operator_voice_jp_kazema {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_kazema", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_kazema", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1433,9 +1433,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_kirara {
+        public static byte[] operator_voice_jp_kirara {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_kirara", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_kirara", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1443,9 +1443,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_kjera {
+        public static byte[] operator_voice_jp_kjera {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_kjera", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_kjera", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1453,9 +1453,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_kroos {
+        public static byte[] operator_voice_jp_kroos {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_kroos", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_kroos", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1463,9 +1463,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_kroos2 {
+        public static byte[] operator_voice_jp_kroos2 {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_kroos2", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_kroos2", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1473,9 +1473,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_lava {
+        public static byte[] operator_voice_jp_lava {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_lava", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_lava", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1483,9 +1483,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_lava2 {
+        public static byte[] operator_voice_jp_lava2 {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_lava2", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_lava2", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1493,9 +1493,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_leizi {
+        public static byte[] operator_voice_jp_leizi {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_leizi", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_leizi", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1503,9 +1503,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_lin {
+        public static byte[] operator_voice_jp_lin {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_lin", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_lin", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1513,9 +1513,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_ling {
+        public static byte[] operator_voice_jp_ling {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_ling", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_ling", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1523,9 +1523,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_lionhd {
+        public static byte[] operator_voice_jp_lionhd {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_lionhd", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_lionhd", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1533,9 +1533,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_lisa {
+        public static byte[] operator_voice_jp_lisa {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_lisa", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_lisa", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1543,9 +1543,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_liskam {
+        public static byte[] operator_voice_jp_liskam {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_liskam", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_liskam", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1553,9 +1553,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_lmlee {
+        public static byte[] operator_voice_jp_lmlee {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_lmlee", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_lmlee", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1563,9 +1563,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_lolxh {
+        public static byte[] operator_voice_jp_lolxh {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_lolxh", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_lolxh", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1573,9 +1573,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_lolxh_1 {
+        public static byte[] operator_voice_jp_lolxh_1 {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_lolxh_1", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_lolxh_1", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1583,9 +1583,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_lumen {
+        public static byte[] operator_voice_jp_lumen {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_lumen", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_lumen", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1593,9 +1593,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_lunacu {
+        public static byte[] operator_voice_jp_lunacu {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_lunacu", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_lunacu", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1603,9 +1603,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_malist {
+        public static byte[] operator_voice_jp_malist {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_malist", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_malist", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1613,9 +1613,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_mantic {
+        public static byte[] operator_voice_jp_mantic {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_mantic", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_mantic", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1623,9 +1623,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_mberry {
+        public static byte[] operator_voice_jp_mberry {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_mberry", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_mberry", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1633,9 +1633,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_medic2 {
+        public static byte[] operator_voice_jp_medic2 {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_medic2", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_medic2", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1643,9 +1643,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_melan {
+        public static byte[] operator_voice_jp_melan {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_melan", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_melan", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1653,9 +1653,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_meteo {
+        public static byte[] operator_voice_jp_meteo {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_meteo", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_meteo", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1663,9 +1663,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_mgllan {
+        public static byte[] operator_voice_jp_mgllan {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_mgllan", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_mgllan", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1673,9 +1673,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_midn {
+        public static byte[] operator_voice_jp_midn {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_midn", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_midn", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1683,9 +1683,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_milu {
+        public static byte[] operator_voice_jp_milu {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_milu", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_milu", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1693,9 +1693,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_mint {
+        public static byte[] operator_voice_jp_mint {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_mint", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_mint", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1703,9 +1703,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_mizuki {
+        public static byte[] operator_voice_jp_mizuki {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_mizuki", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_mizuki", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1713,9 +1713,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_mlynar {
+        public static byte[] operator_voice_jp_mlynar {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_mlynar", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_mlynar", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1723,9 +1723,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_mm {
+        public static byte[] operator_voice_jp_mm {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_mm", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_mm", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1733,9 +1733,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_moeshd {
+        public static byte[] operator_voice_jp_moeshd {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_moeshd", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_moeshd", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1743,9 +1743,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_mostma {
+        public static byte[] operator_voice_jp_mostma {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_mostma", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_mostma", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1753,9 +1753,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_mudrok {
+        public static byte[] operator_voice_jp_mudrok {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_mudrok", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_mudrok", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1763,9 +1763,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_mudrok_1 {
+        public static byte[] operator_voice_jp_mudrok_1 {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_mudrok_1", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_mudrok_1", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1773,9 +1773,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_myrrh {
+        public static byte[] operator_voice_jp_myrrh {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_myrrh", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_myrrh", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1783,9 +1783,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_myrtle {
+        public static byte[] operator_voice_jp_myrtle {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_myrtle", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_myrtle", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1793,9 +1793,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_nblade {
+        public static byte[] operator_voice_jp_nblade {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_nblade", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_nblade", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1803,9 +1803,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_nearl {
+        public static byte[] operator_voice_jp_nearl {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_nearl", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_nearl", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1813,9 +1813,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_nearl2 {
+        public static byte[] operator_voice_jp_nearl2 {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_nearl2", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_nearl2", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1823,9 +1823,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_nian {
+        public static byte[] operator_voice_jp_nian {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_nian", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_nian", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1833,9 +1833,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_nightm {
+        public static byte[] operator_voice_jp_nightm {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_nightm", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_nightm", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1843,9 +1843,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_nights {
+        public static byte[] operator_voice_jp_nights {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_nights", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_nights", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1853,9 +1853,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_noirc {
+        public static byte[] operator_voice_jp_noirc {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_noirc", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_noirc", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1863,9 +1863,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_nothin {
+        public static byte[] operator_voice_jp_noirc2 {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_nothin", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_noirc2", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1873,9 +1873,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_orchid {
+        public static byte[] operator_voice_jp_nothin {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_orchid", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_nothin", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1883,9 +1883,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_otter {
+        public static byte[] operator_voice_jp_orchid {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_otter", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_orchid", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1893,9 +1893,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_pallas {
+        public static byte[] operator_voice_jp_otter {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_pallas", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_otter", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1903,9 +1903,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_panda {
+        public static byte[] operator_voice_jp_pallas {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_panda", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_pallas", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1913,9 +1913,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_pasngr {
+        public static byte[] operator_voice_jp_panda {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_pasngr", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_panda", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1923,9 +1923,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_pasngr_epoque {
+        public static byte[] operator_voice_jp_pasngr {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_pasngr_epoque", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_pasngr", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1933,9 +1933,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_peacok {
+        public static byte[] operator_voice_jp_pasngr_epoque {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_peacok", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_pasngr_epoque", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1943,9 +1943,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_peper {
+        public static byte[] operator_voice_jp_peacok {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_peper", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_peacok", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1953,9 +1953,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_phatom {
+        public static byte[] operator_voice_jp_peper {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_phatom", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_peper", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1963,9 +1963,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_phenxi {
+        public static byte[] operator_voice_jp_phatom {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_phenxi", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_phatom", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1973,9 +1973,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_pianst {
+        public static byte[] operator_voice_jp_phenxi {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_pianst", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_phenxi", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1983,9 +1983,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_pinecn {
+        public static byte[] operator_voice_jp_pianst {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_pinecn", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_pianst", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1993,9 +1993,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_platnm {
+        public static byte[] operator_voice_jp_pinecn {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_platnm", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_pinecn", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2003,9 +2003,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_plosis {
+        public static byte[] operator_voice_jp_platnm {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_plosis", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_platnm", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2013,9 +2013,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_poca {
+        public static byte[] operator_voice_jp_plosis {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_poca", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_plosis", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2023,9 +2023,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_podego {
+        public static byte[] operator_voice_jp_poca {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_podego", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_poca", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2033,9 +2033,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_popka {
+        public static byte[] operator_voice_jp_podego {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_popka", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_podego", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2043,9 +2043,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_prove {
+        public static byte[] operator_voice_jp_popka {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_prove", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_popka", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2053,9 +2053,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_provs {
+        public static byte[] operator_voice_jp_prove {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_provs", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_prove", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2063,9 +2063,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_pudd {
+        public static byte[] operator_voice_jp_provs {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_pudd", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_provs", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2073,9 +2073,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_puzzle {
+        public static byte[] operator_voice_jp_pudd {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_puzzle", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_pudd", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2083,9 +2083,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_qanik {
+        public static byte[] operator_voice_jp_puzzle {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_qanik", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_puzzle", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2093,9 +2093,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_qiubai {
+        public static byte[] operator_voice_jp_qanik {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_qiubai", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_qanik", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2103,9 +2103,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_quartz {
+        public static byte[] operator_voice_jp_qiubai {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_quartz", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_qiubai", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2113,9 +2113,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_quercu {
+        public static byte[] operator_voice_jp_quartz {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_quercu", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_quartz", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2123,9 +2123,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_rang {
+        public static byte[] operator_voice_jp_quercu {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_rang", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_quercu", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2133,9 +2133,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_red {
+        public static byte[] operator_voice_jp_rang {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_red", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_rang", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2143,9 +2143,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_reed2 {
+        public static byte[] operator_voice_jp_red {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_reed2", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_red", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2153,9 +2153,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_robin {
+        public static byte[] operator_voice_jp_reed2 {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_robin", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_reed2", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2163,9 +2163,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_robrta {
+        public static byte[] operator_voice_jp_robin {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_robrta", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_robin", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2173,9 +2173,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_rockr {
+        public static byte[] operator_voice_jp_robrta {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_rockr", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_robrta", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2183,9 +2183,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_rope {
+        public static byte[] operator_voice_jp_rockr {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_rope", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_rockr", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2193,9 +2193,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_rosmon {
+        public static byte[] operator_voice_jp_rope {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_rosmon", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_rope", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2203,9 +2203,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_saga {
+        public static byte[] operator_voice_jp_rosmon {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_saga", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_rosmon", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2213,9 +2213,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_savage {
+        public static byte[] operator_voice_jp_saga {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_savage", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_saga", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2223,9 +2223,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_scave {
+        public static byte[] operator_voice_jp_savage {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_scave", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_savage", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2233,9 +2233,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_sddrag {
+        public static byte[] operator_voice_jp_scave {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_sddrag", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_scave", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2243,9 +2243,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_serum {
+        public static byte[] operator_voice_jp_sddrag {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_serum", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_sddrag", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2253,9 +2253,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_sesa {
+        public static byte[] operator_voice_jp_serum {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_sesa", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_serum", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2263,9 +2263,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_shining {
+        public static byte[] operator_voice_jp_sesa {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_shining", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_sesa", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2273,9 +2273,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_shotst {
+        public static byte[] operator_voice_jp_shining {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_shotst", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_shining", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2283,9 +2283,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_shwaz {
+        public static byte[] operator_voice_jp_shotst {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_shwaz", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_shotst", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2293,9 +2293,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_sidero {
+        public static byte[] operator_voice_jp_shwaz {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_sidero", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_shwaz", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2303,9 +2303,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_siege {
+        public static byte[] operator_voice_jp_sidero {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_siege", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_sidero", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2313,9 +2313,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_silent {
+        public static byte[] operator_voice_jp_siege {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_silent", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_siege", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2323,9 +2323,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_skadi {
+        public static byte[] operator_voice_jp_silent {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_skadi", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_silent", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2333,9 +2333,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_skadi2 {
+        public static byte[] operator_voice_jp_skadi {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_skadi2", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_skadi", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2343,9 +2343,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_skfire {
+        public static byte[] operator_voice_jp_skadi2 {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_skfire", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_skadi2", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2353,9 +2353,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_skgoat {
+        public static byte[] operator_voice_jp_skfire {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_skgoat", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_skfire", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2363,9 +2363,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_slbell {
+        public static byte[] operator_voice_jp_skgoat {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_slbell", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_skgoat", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2373,9 +2373,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_slchan {
+        public static byte[] operator_voice_jp_slbell {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_slchan", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_slbell", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2383,9 +2383,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_sleach {
+        public static byte[] operator_voice_jp_slchan {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_sleach", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_slchan", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2393,9 +2393,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_snakek {
+        public static byte[] operator_voice_jp_sleach {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_snakek", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_sleach", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2403,9 +2403,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_snsant {
+        public static byte[] operator_voice_jp_snakek {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_snsant", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_snakek", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2413,9 +2413,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_sophia {
+        public static byte[] operator_voice_jp_snsant {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_sophia", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_snsant", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2423,9 +2423,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_sora {
+        public static byte[] operator_voice_jp_sophia {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_sora", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_sophia", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2433,9 +2433,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_spikes {
+        public static byte[] operator_voice_jp_sora {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_spikes", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_sora", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2443,9 +2443,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_spot {
+        public static byte[] operator_voice_jp_spikes {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_spot", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_spikes", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2453,9 +2453,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_sqrrel {
+        public static byte[] operator_voice_jp_spot {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_sqrrel", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_spot", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2463,9 +2463,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_strong {
+        public static byte[] operator_voice_jp_sqrrel {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_strong", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_sqrrel", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2473,9 +2473,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_stward {
+        public static byte[] operator_voice_jp_strong {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_stward", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_strong", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2483,9 +2483,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_sunbr {
+        public static byte[] operator_voice_jp_stward {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_sunbr", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_stward", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2493,9 +2493,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_surtr {
+        public static byte[] operator_voice_jp_sunbr {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_surtr", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_sunbr", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2503,9 +2503,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_susuro {
+        public static byte[] operator_voice_jp_surtr {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_susuro", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_surtr", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2513,9 +2513,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_svrash {
+        public static byte[] operator_voice_jp_susuro {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_svrash", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_susuro", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2523,9 +2523,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_swire {
+        public static byte[] operator_voice_jp_svrash {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_swire", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_svrash", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2533,9 +2533,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_swllow {
+        public static byte[] operator_voice_jp_swire {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_swllow", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_swire", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2543,9 +2543,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_takila {
+        public static byte[] operator_voice_jp_swllow {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_takila", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_swllow", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2553,9 +2553,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_texas {
+        public static byte[] operator_voice_jp_takila {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_texas", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_takila", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2563,9 +2563,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_texas2 {
+        public static byte[] operator_voice_jp_texas {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_texas2", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_texas", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2573,9 +2573,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_therex {
+        public static byte[] operator_voice_jp_texas2 {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_therex", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_texas2", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2583,9 +2583,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_thorns {
+        public static byte[] operator_voice_jp_therex {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_thorns", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_therex", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2593,9 +2593,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_tiger {
+        public static byte[] operator_voice_jp_thorns {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_tiger", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_thorns", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2603,9 +2603,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_tknogi {
+        public static byte[] operator_voice_jp_tiger {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_tknogi", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_tiger", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2613,9 +2613,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_toddi {
+        public static byte[] operator_voice_jp_tknogi {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_toddi", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_tknogi", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2623,9 +2623,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_tomimi {
+        public static byte[] operator_voice_jp_toddi {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_tomimi", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_toddi", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2633,9 +2633,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_totter {
+        public static byte[] operator_voice_jp_tomimi {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_totter", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_tomimi", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2643,9 +2643,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_tuye {
+        public static byte[] operator_voice_jp_totter {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_tuye", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_totter", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2653,9 +2653,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_utage {
+        public static byte[] operator_voice_jp_tuye {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_utage", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_tuye", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2663,9 +2663,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_vigil {
+        public static byte[] operator_voice_jp_ulika {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_vigil", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_ulika", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2673,9 +2673,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_vigna {
+        public static byte[] operator_voice_jp_utage {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_vigna", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_utage", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2683,9 +2683,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_vodfox {
+        public static byte[] operator_voice_jp_vigil {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_vodfox", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_vigil", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2693,9 +2693,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_waaifu {
+        public static byte[] operator_voice_jp_vigna {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_waaifu", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_vigna", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2703,9 +2703,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_weedy {
+        public static byte[] operator_voice_jp_vodfox {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_weedy", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_vodfox", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2713,9 +2713,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_whispr {
+        public static byte[] operator_voice_jp_waaifu {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_whispr", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_waaifu", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2723,9 +2723,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_whitew {
+        public static byte[] operator_voice_jp_weedy {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_whitew", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_weedy", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2733,9 +2733,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_wildmn {
+        public static byte[] operator_voice_jp_whispr {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_wildmn", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_whispr", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2743,9 +2743,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_windft {
+        public static byte[] operator_voice_jp_whitew {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_windft", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_whitew", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2753,9 +2753,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_wyvern {
+        public static byte[] operator_voice_jp_wildmn {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_wyvern", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_wildmn", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2763,9 +2763,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_yak {
+        public static byte[] operator_voice_jp_windft {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_yak", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_windft", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2773,9 +2773,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_yuki {
+        public static byte[] operator_voice_jp_wyvern {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_yuki", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_wyvern", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2783,9 +2783,9 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_zebra {
+        public static byte[] operator_voice_jp_yak {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_zebra", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_yak", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -2793,9 +2793,39 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
-        public static byte[] operator_voice_ja_zumama {
+        public static byte[] operator_voice_jp_yato2 {
             get {
-                object obj = ResourceManager.GetObject("operator_voice_ja_zumama", resourceCulture);
+                object obj = ResourceManager.GetObject("operator_voice_jp_yato2", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Byte[] 类型的本地化资源。
+        /// </summary>
+        public static byte[] operator_voice_jp_yuki {
+            get {
+                object obj = ResourceManager.GetObject("operator_voice_jp_yuki", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Byte[] 类型的本地化资源。
+        /// </summary>
+        public static byte[] operator_voice_jp_zebra {
+            get {
+                object obj = ResourceManager.GetObject("operator_voice_jp_zebra", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Byte[] 类型的本地化资源。
+        /// </summary>
+        public static byte[] operator_voice_jp_zumama {
+            get {
+                object obj = ResourceManager.GetObject("operator_voice_jp_zumama", resourceCulture);
                 return ((byte[])(obj));
             }
         }
