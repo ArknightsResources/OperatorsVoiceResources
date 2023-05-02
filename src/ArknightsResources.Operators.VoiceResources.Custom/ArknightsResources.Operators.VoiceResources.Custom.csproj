@@ -14,7 +14,7 @@
     <PackageIcon>icon.png</PackageIcon>
     <Description>Provides custom voice resources about Arknights Operators</Description>
     <IsTrimmable>true</IsTrimmable>
-    <Version>0.1.0.0-alpha</Version>
+    <Version>0.1.1.0-alpha</Version>
     <IncludeSymbols>True</IncludeSymbols>
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>
     <DebugType>portable</DebugType>
