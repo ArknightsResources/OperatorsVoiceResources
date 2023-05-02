@@ -214,6 +214,9 @@
   <data name="operator_voice_kr_doberm" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resources\operator_voice_kr_doberm.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="operator_voice_kr_doroth" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\operator_voice_kr_doroth.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
   <data name="operator_voice_kr_durin" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resources\operator_voice_kr_durin.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
@@ -288,6 +291,9 @@
   </data>
   <data name="operator_voice_kr_greyy" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resources\operator_voice_kr_greyy.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="operator_voice_kr_greyy2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\operator_voice_kr_greyy2.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="operator_voice_kr_gvial2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resources\operator_voice_kr_gvial2.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -385,6 +391,9 @@
   <data name="operator_voice_kr_milu" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resources\operator_voice_kr_milu.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="operator_voice_kr_mlynar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\operator_voice_kr_mlynar.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
   <data name="operator_voice_kr_moeshd" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resources\operator_voice_kr_moeshd.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
@@ -447,6 +456,9 @@
   </data>
   <data name="operator_voice_kr_prove" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resources\operator_voice_kr_prove.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="operator_voice_kr_provs" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\operator_voice_kr_provs.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="operator_voice_kr_pudd" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resources\operator_voice_kr_pudd.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>

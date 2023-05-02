@@ -103,6 +103,26 @@ namespace ArknightsResources.Operators.VoiceResources.Custom.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
+        public static byte[] operator_voice_cn_topolect_haak {
+            get {
+                object obj = ResourceManager.GetObject("operator_voice_cn_topolect_haak", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Byte[] 类型的本地化资源。
+        /// </summary>
+        public static byte[] operator_voice_cn_topolect_hmau {
+            get {
+                object obj = ResourceManager.GetObject("operator_voice_cn_topolect_hmau", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Byte[] 类型的本地化资源。
+        /// </summary>
         public static byte[] operator_voice_cn_topolect_hsguma {
             get {
                 object obj = ResourceManager.GetObject("operator_voice_cn_topolect_hsguma", resourceCulture);
@@ -126,6 +146,16 @@ namespace ArknightsResources.Operators.VoiceResources.Custom.Properties {
         public static byte[] operator_voice_cn_topolect_ling {
             get {
                 object obj = ResourceManager.GetObject("operator_voice_cn_topolect_ling", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Byte[] 类型的本地化资源。
+        /// </summary>
+        public static byte[] operator_voice_cn_topolect_lmlee {
+            get {
+                object obj = ResourceManager.GetObject("operator_voice_cn_topolect_lmlee", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -186,6 +216,16 @@ namespace ArknightsResources.Operators.VoiceResources.Custom.Properties {
         public static byte[] operator_voice_cn_topolect_swire {
             get {
                 object obj = ResourceManager.GetObject("operator_voice_cn_topolect_swire", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Byte[] 类型的本地化资源。
+        /// </summary>
+        public static byte[] operator_voice_cn_topolect_waaifu {
+            get {
+                object obj = ResourceManager.GetObject("operator_voice_cn_topolect_waaifu", resourceCulture);
                 return ((byte[])(obj));
             }
         }
