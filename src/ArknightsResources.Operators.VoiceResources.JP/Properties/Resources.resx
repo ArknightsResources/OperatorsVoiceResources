@@ -865,6 +865,9 @@
   <data name="operator_voice_jp_snsant" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resources\operator_voice_jp_snsant.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="operator_voice_jp_sntlla" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\operator_voice_jp_sntlla.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
   <data name="operator_voice_jp_sophia" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resources\operator_voice_jp_sophia.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
@@ -939,6 +942,9 @@
   </data>
   <data name="operator_voice_jp_tuye" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resources\operator_voice_jp_tuye.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="operator_voice_jp_typhon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\operator_voice_jp_typhon.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="operator_voice_jp_ulika" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resources\operator_voice_jp_ulika.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
