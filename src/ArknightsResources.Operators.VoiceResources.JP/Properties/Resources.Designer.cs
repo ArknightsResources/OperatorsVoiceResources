@@ -2753,6 +2753,16 @@ namespace ArknightsResources.Operators.VoiceResources.JP.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
+        public static byte[] operator_voice_jp_threye {
+            get {
+                object obj = ResourceManager.GetObject("operator_voice_jp_threye", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Byte[] 类型的本地化资源。
+        /// </summary>
         public static byte[] operator_voice_jp_tiger {
             get {
                 object obj = ResourceManager.GetObject("operator_voice_jp_tiger", resourceCulture);
