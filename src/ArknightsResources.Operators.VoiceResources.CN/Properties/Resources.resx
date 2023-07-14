@@ -925,6 +925,9 @@
   <data name="operator_voice_cn_thorns" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resources\operator_voice_cn_thorns.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="operator_voice_cn_threye" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\operator_voice_cn_threye.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
   <data name="operator_voice_cn_tiger" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resources\operator_voice_cn_tiger.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
