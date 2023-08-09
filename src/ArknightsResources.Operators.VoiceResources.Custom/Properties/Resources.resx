@@ -166,6 +166,9 @@
   <data name="operator_voice_cn_topolect_swire" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\operator_voice_cn_topolect_swire.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="operator_voice_cn_topolect_swire2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\operator_voice_cn_topolect_swire2.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
   <data name="operator_voice_cn_topolect_waaifu" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resources\operator_voice_cn_topolect_waaifu.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>

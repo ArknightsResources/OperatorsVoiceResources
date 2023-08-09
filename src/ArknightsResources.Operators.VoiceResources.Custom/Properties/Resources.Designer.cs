@@ -223,6 +223,16 @@ namespace ArknightsResources.Operators.VoiceResources.Custom.Properties {
         /// <summary>
         ///   查找 System.Byte[] 类型的本地化资源。
         /// </summary>
+        public static byte[] operator_voice_cn_topolect_swire2 {
+            get {
+                object obj = ResourceManager.GetObject("operator_voice_cn_topolect_swire2", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Byte[] 类型的本地化资源。
+        /// </summary>
         public static byte[] operator_voice_cn_topolect_waaifu {
             get {
                 object obj = ResourceManager.GetObject("operator_voice_cn_topolect_waaifu", resourceCulture);

@@ -169,6 +169,9 @@
   <data name="operator_voice_en_aurora" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resources\operator_voice_en_aurora.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="operator_voice_en_bdhkgt" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\operator_voice_en_bdhkgt.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
   <data name="operator_voice_en_beagle" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resources\operator_voice_en_beagle.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
@@ -190,6 +193,9 @@
   <data name="operator_voice_en_bluep" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resources\operator_voice_en_bluep.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="operator_voice_en_breeze" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\operator_voice_en_breeze.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
   <data name="operator_voice_en_catap" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\operator_voice_en_catap.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
@@ -204,6 +210,12 @@
   </data>
   <data name="operator_voice_en_chen2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resources\operator_voice_en_chen2.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="operator_voice_en_chimes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\operator_voice_en_chimes.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="operator_voice_en_chyue" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\operator_voice_en_chyue.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="operator_voice_en_cqbw" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\operator_voice_en_cqbw.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -249,6 +261,12 @@
   </data>
   <data name="operator_voice_en_fartth" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resources\operator_voice_en_fartth.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="operator_voice_en_firwhl" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\operator_voice_en_firwhl.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="operator_voice_en_flameb" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\operator_voice_en_flameb.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="operator_voice_en_flamtl" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resources\operator_voice_en_flamtl.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -297,6 +315,9 @@
   </data>
   <data name="operator_voice_en_halo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resources\operator_voice_en_halo.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="operator_voice_en_hamoni" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\operator_voice_en_hamoni.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="operator_voice_en_hbisc2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resources\operator_voice_en_hbisc2.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -355,6 +376,9 @@
   <data name="operator_voice_en_lava2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resources\operator_voice_en_lava2.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="operator_voice_en_lin" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\operator_voice_en_lin.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
   <data name="operator_voice_en_ling" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resources\operator_voice_en_ling.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
@@ -384,6 +408,9 @@
   </data>
   <data name="operator_voice_en_midn" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\operator_voice_en_midn.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="operator_voice_en_milu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\operator_voice_en_milu.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="operator_voice_en_mlynar" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resources\operator_voice_en_mlynar.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -448,6 +475,12 @@
   <data name="operator_voice_en_pudd" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resources\operator_voice_en_pudd.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="operator_voice_en_puzzle" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\operator_voice_en_puzzle.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="operator_voice_en_qiubai" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\operator_voice_en_qiubai.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
   <data name="operator_voice_en_quercu" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resources\operator_voice_en_quercu.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
@@ -456,6 +489,9 @@
   </data>
   <data name="operator_voice_en_red" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\operator_voice_en_red.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="operator_voice_en_reed2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\operator_voice_en_reed2.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="operator_voice_en_rfrost" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resources\operator_voice_en_rfrost.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -469,8 +505,14 @@
   <data name="operator_voice_en_rope" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resources\operator_voice_en_rope.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="operator_voice_en_savage" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\operator_voice_en_savage.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
   <data name="operator_voice_en_scave" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resources\operator_voice_en_scave.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="operator_voice_en_sddrag" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\operator_voice_en_sddrag.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="operator_voice_en_serum" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resources\operator_voice_en_serum.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -486,6 +528,12 @@
   </data>
   <data name="operator_voice_en_silent" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resources\operator_voice_en_silent.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="operator_voice_en_skadi" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\operator_voice_en_skadi.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="operator_voice_en_skadi2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\operator_voice_en_skadi2.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="operator_voice_en_slbell" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resources\operator_voice_en_slbell.ab;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
